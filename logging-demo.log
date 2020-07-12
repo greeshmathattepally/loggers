@@ -1,0 +1,15 @@
+2020-07-12 13:49:09 INFO  App:21 - Enter Principal Amount, Time in Years, Rate of Interest
+2020-07-12 13:49:13 INFO  App:25 - Select Option
+1)Simple Interest
+2)Compound Interest
+
+2020-07-12 13:49:15 INFO  App:15 - Calculating Compound Interest
+2020-07-12 13:49:15 INFO  App:32 - 1.0404
+2020-07-12 13:49:15 INFO  App:36 - Select type of materials and if required select fully automated from below options
+1)Standard Materials
+2)Above Standard Materials
+3)High Standard Materials
+4)High Standard and Fully Automated
+2020-07-12 13:49:17 INFO  App:39 - Enter area of house
+2020-07-12 13:49:19 INFO  App:13 - cost using above standard materials
+2020-07-12 13:49:19 INFO  App:45 - 34500
